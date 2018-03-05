@@ -1,0 +1,6 @@
+﻿  NormMark.cpp
+f:\work\normmark\normmark\normmark.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+f:\work\normmark\normmark\normmark.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+f:\work\normmark\normmark\normmark.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+  NormMark.vcxproj -> F:\work\NormMark\Debug\NormMark.exe
+  NormMark.vcxproj -> F:\work\NormMark\Debug\NormMark.pdb (Partial PDB)
